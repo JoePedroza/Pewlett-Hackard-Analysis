@@ -15,17 +15,17 @@ Provide a bulleted list with four major points from the two analysis deliverable
 - Create a query to retrieve the retirement titles by count. 
 ![alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 - Create a query to retrieve the unique titles of those retiring. 
-[alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/unique_titles.png) 
+![alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/unique_titles.png) 
 - Create a query and table to hold those folks who are eligible for a mentorship program. 
-[alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.png) 
+![alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.png) 
 
 ## Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?  Pewlett-Hackard will need to train or mentor engineers into the senior position and have a major hiring.  Currently, there is not enough engineers to keep their current rate of senior engineers.  There is about 150% more senior engineers than there are regular engineers.  The senior staff will also need to make regular employees into a senior role.
 
-[alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.png) 
+![alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.png) 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  There are enough retirement ready employees to train the next generation of employees but need to do a major hiring of entry-level engineers and start trainging them for the silver tsunami wave.
 
-[alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_by_title.png) 
+![alt text](https://github.com/JoePedroza/Pewlett-Hackard-Analysis/blob/main/mentorship_by_title.png) 
 
